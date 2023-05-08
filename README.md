@@ -52,6 +52,9 @@ The program is based on a 3-tier architecture:
 - `security`: defines access rights to user according to user's role.
 - `resources`: configuration file.
 
+# How does the project structure look like? <img src="https://png.pngtree.com/png-vector/20190215/ourlarge/pngtree-vector-question-mark-icon-png-image_515448.jpg" align="left" align="Right" height="50" width="50">
+![img_1.png](img_1.png)
+
 # Used Technologies <img src="https://png.pngtree.com/png-clipart/20210321/original/pngtree-technology-logo-template-png-image_6139771.jpg" align="left" align="Right" height="50" width="50">
 
 - Java `17.0.6`
@@ -62,3 +65,6 @@ The program is based on a 3-tier architecture:
 - Apache Tomcat `9.0.7`
 - Maven `3.8.7`
 - Maven Checkstyle Plugin `3.1.1`
+
+# Author <img src="https://t4.ftcdn.net/jpg/02/86/28/95/360_F_286289596_IqNxr6zuTBcbySXJLp6S3CPZDgo9ksFs.jpg" align="left" align="Right" height="50" width="50">
+<a href="https://github.com/PlagueEbola">Sushko Roman</a>
