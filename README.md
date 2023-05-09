@@ -16,6 +16,7 @@ The program is based on a 3-tier architecture:
 - The user can receive information about movie sessions, the admin can also add, update and delete movie sessions.
 - The user can add a movie to their shopping cart. 
 - The user can complete their order and also get the history of their own orders.  
+- Test users have already been added to database. Is a user Bob with a login `bob@gmai.com`, password `1234` and role `USER`. And user Alice with a login `alice@gmail.com`, password `4321` and role `ADMIN`. You can use them to test the application
 # How to run? <img src="https://thumbs.dreamstime.com/b/gear-logo-template-vector-icon-illustration-design-156835720.jpg" align="left" align="Right" height="50" width="50">
 - Clone a repository with GitHub
 - Create an empty database
